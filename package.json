@@ -1,0 +1,14 @@
+{
+  "name": "test-electron",
+  "version": "1.0.0",
+  "description": "test electron app",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "author": "Devin Jackson",
+  "license": "ISC",
+  "dependencies": {
+    "chart.js": "^2.2.2"
+  }
+}
