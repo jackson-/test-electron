@@ -1,0 +1,20 @@
+2016-09-17T22:18:54.711302000 0.893452s notice: Recursively removing directory /Users/devinjackson/Documents/Projects/test-electron/rethinkdb_data/tmp
+2016-09-17T22:18:54.713242000 0.895399s notice: Initializing directory /Users/devinjackson/Documents/Projects/test-electron/rethinkdb_data
+2016-09-17T22:18:54.713390000 0.895540s info: Creating a default database for your convenience. (This is because you ran 'rethinkdb' without 'create', 'serve', or '--join', and the directory '/Users/devinjackson/Documents/Projects/test-electron/rethinkdb_data' did not already exist or is empty.)
+2016-09-17T22:18:54.713441000 0.895591s notice: Running rethinkdb 2.3.5 (CLANG 7.3.0 (clang-703.0.31))...
+2016-09-17T22:18:54.724595000 0.906746s notice: Running on Darwin 15.5.0 x86_64
+2016-09-17T22:18:54.724686000 0.906835s notice: Loading data from directory /Users/devinjackson/Documents/Projects/test-electron/rethinkdb_data
+2016-09-17T22:18:55.146729000 1.328878s info: Automatically using cache size of 100 MB
+2016-09-17T22:18:55.146746000 1.328895s warn: Cache size does not leave much memory for server and query overhead (available memory: 751 MB).
+2016-09-17T22:18:55.146756000 1.328906s warn: Cache size is very low and may impact performance.
+2016-09-17T22:18:55.148600000 1.330749s notice: Listening for intracluster connections on port 29015
+2016-09-17T22:18:55.150627000 1.332776s notice: Listening for client driver connections on port 28015
+2016-09-17T22:18:55.150792000 1.332942s notice: Listening for administrative HTTP connections on port 8080
+2016-09-17T22:18:55.150795000 1.332944s notice: Listening on cluster addresses: 127.0.0.1, ::1
+2016-09-17T22:18:55.150831000 1.332980s notice: Listening on driver addresses: 127.0.0.1, ::1
+2016-09-17T22:18:55.150839000 1.332988s notice: Listening on http addresses: 127.0.0.1, ::1
+2016-09-17T22:18:55.150942000 1.333091s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2016-09-17T22:18:55.150951000 1.333100s notice: Server ready, "Devins_Air_home_8tf" bf74edeb-478f-4d6f-bef8-a7765d6dd30f
+2016-09-17T22:25:59.199478000 425.373823s info: Table b1f5d3ca-060e-4964-84eb-700f9c7cbe6d: Starting a new Raft election for term 1.
+2016-09-17T22:25:59.200073000 425.374417s info: Table b1f5d3ca-060e-4964-84eb-700f9c7cbe6d: Added replica on this server.
+2016-09-17T22:25:59.273674000 425.448019s info: Table b1f5d3ca-060e-4964-84eb-700f9c7cbe6d: This server is Raft leader for term 1. Latest log index is 0.

@@ -9,6 +9,7 @@
   "author": "Devin Jackson",
   "license": "ISC",
   "dependencies": {
-    "chart.js": "^2.2.2"
+    "chart.js": "^2.2.2",
+    "csv":"1.1.0"
   }
 }
